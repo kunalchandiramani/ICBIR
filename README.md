@@ -5,6 +5,9 @@ The Project is implemented using two different methodologies:
 •	Method 02: HOG Based Features-The histogram of oriented gradients (HOG) is a feature descriptor used in computer vision and image processing for the purpose of object detection. The technique counts occurrences of gradient orientation in localized portions of an image.
 The dataset can be downloaded from the following link:
 http://image.ntua.gr/iva/datasets/flickr_logos/
+
+
+
 Instructions for Color-HSV Based Model:
 The code is divided into 4 modules:
 1.	Colorextractor.py
@@ -35,8 +38,9 @@ Step 3: Now execute similar.py
 Step 4: At last execute search.py
 	>> python search.py --index index.csv --query queries/01.jpg --result-path Dataset
   
-  
-  Instructions for HOG Based Model:
+
+
+Instructions for HOG Based Model:
 
 The code is divided into 4 modules:
 1.	hog.py
