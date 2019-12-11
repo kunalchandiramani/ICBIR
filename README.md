@@ -1,4 +1,4 @@
-# ICBIR (INTELLIGENT CONTENT BASED IMAGE RETERIVAL SYSTEM)
+# ICBIR (INTELLIGENT CONTENT BASED IMAGE RETRIEVAL SYSTEM)
 
 The Project is implemented using two different methodologies:
 •	Method 01: Color-HSV Based Features- This phase identifies the unique feature vector corresponding to the image features. Hue saturation value (HSV) color space is used for color feature extraction.  
